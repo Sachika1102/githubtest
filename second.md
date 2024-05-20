@@ -11,12 +11,12 @@ githubtest[index.md](./index.md)
 
 # Code コード
 
-print 'hoge'
+print `hoge`
 
 # em
 
-これは*イタリック*です  
-これは*イタリック*です
+これは**サンプル**です  
+これは _サンプル_ です
 
 # チェックリスト
 
