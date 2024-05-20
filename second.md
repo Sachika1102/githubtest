@@ -15,14 +15,13 @@ print `hoge`
 
 # 水平線
 
-hoge  
-***
-hoge  
-___
-hoge  
+hoge
+
 ---
 
+hoge
 
+---
 
 # チェックリスト
 
