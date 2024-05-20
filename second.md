@@ -15,11 +15,11 @@ print `hoge`
 
 # 水平線
 
-hoge
+hoge  
 ***
-hoge
+hoge  
 ___
-hoge
+hoge  
 ---
 
 
