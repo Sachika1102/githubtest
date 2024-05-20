@@ -2,20 +2,28 @@
 
 githubtest[index.md](./index.md)
 
-# Blockquotes 引数
+# 引数
 
 > 引用
 > 引用
 >
 > > 多重引用
 
-# Code コード
+# コード
 
 print `hoge`
 
-# em
+# 水平線
 
-これは**サンプル**です  
+hoge
+
+---
+
+hoge
+
+---
+
+## hoge
 
 # チェックリスト
 
