@@ -17,9 +17,12 @@ print `hoge`
 
 hoge
 ***
-
 hoge
 ___
+hoge
+---
+
+
 
 # チェックリスト
 
